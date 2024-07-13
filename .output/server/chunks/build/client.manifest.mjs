@@ -1,0 +1,472 @@
+const client_manifest = {
+  "_!~{00b}~.js": {
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true,
+    "file": "Art.CynbXH6S.css",
+    "src": "_!~{00b}~.js"
+  },
+  "_CpSTJrCF.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CpSTJrCF.js",
+    "name": "Art",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "Art.CynbXH6S.css"
+    ]
+  },
+  "Art.CynbXH6S.css": {
+    "file": "Art.CynbXH6S.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "_CvPrVERL.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CvPrVERL.js",
+    "name": "nuxt-link",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_CywLloZM.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CywLloZM.js",
+    "name": "originalcharacter",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "fortune.DzSS45mG.jpg",
+      "exilivian.Bljz3c-n.png",
+      "katara.5ooBHh5g.png",
+      "kostartt.vU5OME8E.jpg",
+      "secretsanta.I2oo-9lU.png",
+      "leesin.DqhWltGB.jpg",
+      "patchouli.CKsySxXA.png",
+      "splatoon.ZhzzKYqN.jpg",
+      "originalcharacter.Bsmhh3zR.jpg"
+    ]
+  },
+  "fortune.DzSS45mG.jpg": {
+    "file": "fortune.DzSS45mG.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "exilivian.Bljz3c-n.png": {
+    "file": "exilivian.Bljz3c-n.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "katara.5ooBHh5g.png": {
+    "file": "katara.5ooBHh5g.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "kostartt.vU5OME8E.jpg": {
+    "file": "kostartt.vU5OME8E.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "secretsanta.I2oo-9lU.png": {
+    "file": "secretsanta.I2oo-9lU.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "leesin.DqhWltGB.jpg": {
+    "file": "leesin.DqhWltGB.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "patchouli.CKsySxXA.png": {
+    "file": "patchouli.CKsySxXA.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "splatoon.ZhzzKYqN.jpg": {
+    "file": "splatoon.ZhzzKYqN.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "originalcharacter.Bsmhh3zR.jpg": {
+    "file": "originalcharacter.Bsmhh3zR.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "_DOTMxRns.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DOTMxRns.js",
+    "name": "exo4",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "exo2.DYNl5xRU.jpg",
+      "exo3.cK7zNxiK.png",
+      "exo4.DfpHEW7t.jpg"
+    ]
+  },
+  "exo2.DYNl5xRU.jpg": {
+    "file": "exo2.DYNl5xRU.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "exo3.cK7zNxiK.png": {
+    "file": "exo3.cK7zNxiK.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "exo4.DfpHEW7t.jpg": {
+    "file": "exo4.DfpHEW7t.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  },
+  "_DX0oZns5.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DX0oZns5.js",
+    "name": "frog",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "frog.igEul8wu.gif"
+    ]
+  },
+  "frog.igEul8wu.gif": {
+    "file": "frog.igEul8wu.gif",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/gif"
+  },
+  "assets/animations/frog.gif": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/gif",
+    "file": "frog.igEul8wu.gif",
+    "src": "assets/animations/frog.gif"
+  },
+  "assets/digital-drawings/exilivian.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "exilivian.Bljz3c-n.png",
+    "src": "assets/digital-drawings/exilivian.png"
+  },
+  "assets/digital-drawings/fortune.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "fortune.DzSS45mG.jpg",
+    "src": "assets/digital-drawings/fortune.jpg"
+  },
+  "assets/digital-drawings/katara.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "katara.5ooBHh5g.png",
+    "src": "assets/digital-drawings/katara.png"
+  },
+  "assets/digital-drawings/kostartt.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "kostartt.vU5OME8E.jpg",
+    "src": "assets/digital-drawings/kostartt.jpg"
+  },
+  "assets/digital-drawings/leesin.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "leesin.DqhWltGB.jpg",
+    "src": "assets/digital-drawings/leesin.jpg"
+  },
+  "assets/digital-drawings/originalcharacter.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "originalcharacter.Bsmhh3zR.jpg",
+    "src": "assets/digital-drawings/originalcharacter.jpg"
+  },
+  "assets/digital-drawings/patchouli.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "patchouli.CKsySxXA.png",
+    "src": "assets/digital-drawings/patchouli.png"
+  },
+  "assets/digital-drawings/secretsanta.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "secretsanta.I2oo-9lU.png",
+    "src": "assets/digital-drawings/secretsanta.png"
+  },
+  "assets/digital-drawings/splatoon.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "splatoon.ZhzzKYqN.jpg",
+    "src": "assets/digital-drawings/splatoon.jpg"
+  },
+  "assets/img/instagram-logo.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "instagram-logo.BODjoKo1.png",
+    "src": "assets/img/instagram-logo.png"
+  },
+  "assets/img/redbubble-logo.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "redbubble-logo.TxhhuhIK.png",
+    "src": "assets/img/redbubble-logo.png"
+  },
+  "assets/studies/exo1.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "exo1.CdmUZms1.jpg",
+    "src": "assets/studies/exo1.jpg"
+  },
+  "assets/studies/exo2.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "exo2.DYNl5xRU.jpg",
+    "src": "assets/studies/exo2.jpg"
+  },
+  "assets/studies/exo3.png": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png",
+    "file": "exo3.cK7zNxiK.png",
+    "src": "assets/studies/exo3.png"
+  },
+  "assets/studies/exo4.jpg": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg",
+    "file": "exo4.DfpHEW7t.jpg",
+    "src": "assets/studies/exo4.jpg"
+  },
+  "layouts/default.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "L74q-D6A.js",
+    "name": "default",
+    "src": "layouts/default.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CvPrVERL.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "assets": [
+      "instagram-logo.BODjoKo1.png",
+      "redbubble-logo.TxhhuhIK.png"
+    ]
+  },
+  "instagram-logo.BODjoKo1.png": {
+    "file": "instagram-logo.BODjoKo1.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "redbubble-logo.TxhhuhIK.png": {
+    "file": "redbubble-logo.TxhhuhIK.png",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/png"
+  },
+  "node_modules/nuxt/dist/app/components/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BEdiQDga.js",
+    "name": "error-404",
+    "src": "node_modules/nuxt/dist/app/components/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CvPrVERL.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "error-404.CjGVuf6H.css": {
+    "file": "error-404.CjGVuf6H.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/components/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CC1LY83S.js",
+    "name": "error-500",
+    "src": "node_modules/nuxt/dist/app/components/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "error-500.DFBAsgKS.css": {
+    "file": "error-500.DFBAsgKS.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DIULDqu5.js",
+    "name": "entry",
+    "src": "node_modules/nuxt/dist/app/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "layouts/default.vue",
+      "node_modules/nuxt/dist/app/components/error-404.vue",
+      "node_modules/nuxt/dist/app/components/error-500.vue"
+    ],
+    "css": [
+      "entry.vTpmKiz_.css"
+    ],
+    "_globalCSS": true
+  },
+  "entry.vTpmKiz_.css": {
+    "file": "entry.vTpmKiz_.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/animations.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "xMBq4-kC.js",
+    "name": "animations",
+    "src": "pages/animations.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CpSTJrCF.js",
+      "_DX0oZns5.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "pages/contact.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DXSfBO7z.js",
+    "name": "contact",
+    "src": "pages/contact.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "contact.cvlLtdO0.css": {
+    "file": "contact.cvlLtdO0.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/digital-drawings.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "R6_Cvrn2.js",
+    "name": "digital-drawings",
+    "src": "pages/digital-drawings.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CpSTJrCF.js",
+      "_CywLloZM.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DQ1AC45g.js",
+    "name": "index",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CpSTJrCF.js",
+      "_CywLloZM.js",
+      "_DOTMxRns.js",
+      "_DX0oZns5.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "pages/studies.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "MBueZ0cA.js",
+    "name": "studies",
+    "src": "pages/studies.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_CpSTJrCF.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_DOTMxRns.js"
+    ],
+    "assets": [
+      "exo1.CdmUZms1.jpg"
+    ]
+  },
+  "exo1.CdmUZms1.jpg": {
+    "file": "exo1.CdmUZms1.jpg",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/jpeg"
+  }
+};
+
+export { client_manifest as default };
+//# sourceMappingURL=client.manifest.mjs.map
